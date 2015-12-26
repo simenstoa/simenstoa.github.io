@@ -8,5 +8,6 @@
 5. Når du er ferdig, trykk `Commit changes`.
 
 ## Linker
-[Hvordan formattere poster: Markdown](https://guides.github.com/features/mastering-markdown/)
-[Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
+
+- [Hvordan formattere poster: Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
