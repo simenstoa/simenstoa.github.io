@@ -9,9 +9,9 @@
 title: Eli Støa
 email: eli.stoa@ntnu.no
 description: > # this means to ignore newlines until "baseurl:"
-  Eli Støa er professor ved Institutt for Arkitektur og Billedkunst
-  ved NTNU. Hun skriver også jevnlig for Adressa, og denne siden
-  består av artiklene derfra.
+  Eli Støa er boligprofessor ved Fakultet for Arkitektur og Billedkunst
+  ved NTNU. På denne siden vil hun legge ut informasjon om prosjekter og publikasjoner. Hun skriver også jevnlig for Adressa, og disse tekstene
+blir også lagt ut her.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://simenstoa.github.io" # the base hostname & protocol for your site
 twitter_username: simenstoa
