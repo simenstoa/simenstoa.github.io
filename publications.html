@@ -1,0 +1,19 @@
+---
+layout: default
+title: Publikasjoner
+permalink: /publikasjoner/
+---
+
+<div class="home">
+  <ul class="post-list">
+    {% for pub in site.categories.publications %}
+      <li>
+        <span class="post-meta">{{ pub.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

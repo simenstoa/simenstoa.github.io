@@ -6,9 +6,22 @@
 </description>
     <link>https://simenstoa.github.io/</link>
     <atom:link href="https://simenstoa.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Jan 2016 17:26:39 +0100</pubDate>
-    <lastBuildDate>Sun, 03 Jan 2016 17:26:39 +0100</lastBuildDate>
+    <pubDate>Mon, 04 Jan 2016 13:21:09 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Jan 2016 13:21:09 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Publikasjon</title>
+        <description>&lt;p&gt;En liten beskrivelse + en link kanskje?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 +0100</pubDate>
+        <link>https://simenstoa.github.io/publications/2016/01/04/test-pub.html</link>
+        <guid isPermaLink="true">https://simenstoa.github.io/publications/2016/01/04/test-pub.html</guid>
+        
+        
+        <category>publications</category>
+        
+      </item>
     
       <item>
         <title>Framtidsutsikter</title>
@@ -25,9 +38,11 @@
 &lt;p&gt;(Teksten stod på trykk i Adresseavisens Hjem-bilag, torsdag 31.12.2015)&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Dec 2015 00:00:00 +0100</pubDate>
-        <link>https://simenstoa.github.io/2015/12/31/Framtidsutsikter.html</link>
-        <guid isPermaLink="true">https://simenstoa.github.io/2015/12/31/Framtidsutsikter.html</guid>
+        <link>https://simenstoa.github.io/posts/2015/12/31/Framtidsutsikter.html</link>
+        <guid isPermaLink="true">https://simenstoa.github.io/posts/2015/12/31/Framtidsutsikter.html</guid>
         
+        
+        <category>posts</category>
         
       </item>
     
