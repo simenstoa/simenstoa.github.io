@@ -7,7 +7,7 @@
 4. Bruk Markdown til å formattere teksten, og bruk `Preview Changes` til å se hvordan det blir seende ut.
 5. Når du er ferdig, trykk `Commit changes`.
 
-### Metadata
+#### Metadata
 ```
 ---
 layout: post
@@ -18,7 +18,7 @@ title:  "Trykk på meg, Mamma!"
 ## Legge til publikasjon
 Samme som for ny post, men i mappen `publications/_posts` med metadata:
 
-### Metadata
+#### Metadata
 ```
 ---
 layout: publication
