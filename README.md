@@ -2,8 +2,8 @@
 
 ## Legge ut ny post
 1. Gå inn i mappen `posts/_posts`.
-2. Trykk på `New File`.
-3. Kopier inn metadata. Endre tittel og dato.
+2. Trykk på `New File`. Må ha navn på formen `YYYY-MM-DD-tittel-kommer-her.md`
+3. Kopier inn metadata. Endre tittel.
 4. Bruk Markdown til å formattere teksten, og bruk `Preview Changes` til å se hvordan det blir seende ut.
 5. Når du er ferdig, trykk `Commit changes`.
 
