@@ -1,7 +1,7 @@
 # Eli Støa's Hjemmeside!
 
 ## Legge ut ny post
-1. Gå inn i mappen `_posts`.
+1. Gå inn i mappen `posts/_posts`.
 2. Trykk på `New File`.
 3. Kopier inn metadata. Endre tittel og dato.
 4. Bruk Markdown til å formattere teksten, og bruk `Preview Changes` til å se hvordan det blir seende ut.
@@ -12,11 +12,19 @@
 ---
 layout: post
 title:  "Trykk på meg, Mamma!"
-date:   2015-11-11 22:34:00 +0100
-categories: jekyll update
 ---
 ```
 
+## Legge til publikasjon
+Samme som for ny post, men i mappen `publications/_posts` med metadata:
+
+### Metadata
+```
+---
+layout: publication
+title:  "Trykk på meg, Mamma!"
+---
+```
 
 ## Linker
 - [Hvordan formattere poster: Markdown](https://guides.github.com/features/mastering-markdown/)
